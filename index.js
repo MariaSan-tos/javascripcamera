@@ -17,9 +17,11 @@ setTimeout(() => {
 }, 3000);
 
 setTimeout(() => {
+    document.querySelector('h1').innerHTML = "kkkk VOCÊ É A PIADA!";
+}, 3500);
+
+
+setTimeout(() => {
     window.alert("VOCÊ É A PIADA!");
 }, 3100);
 
-setTimeout(() => {
-    document.querySelector('h1').innerHTML = "kkkk VOCÊ É A PIADA!";
-}, 3500);
