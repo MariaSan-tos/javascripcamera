@@ -14,8 +14,8 @@ startCamera();
 
 setTimeout(() => {
     document.querySelector('h1').innerHTML = "BOOOO!! PRIMEIRO DE ABRIL!!!";
-}, 2500);
+}, 3000);
 
 setTimeout(() => {
     window.alert("VOCÊ É A PIADA!");
-}, 2800);
+}, 3000);
