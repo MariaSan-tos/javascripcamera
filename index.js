@@ -12,7 +12,7 @@ async function startCamera() {
 
 async function Piada() {
     setTimeout(() => {
-        document.querySelector('h1').innerHTML = "BOOOO!! PRIMEIRO DE ABRIL!!!";
+        document.querySelector('h1').innerHTML = "BOOOO!! PRIMEIRO DE ABRIL!1!";
     }, 3000);
     
     setTimeout(() => {
