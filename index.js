@@ -25,6 +25,3 @@ startCamera();
 Piada();
 
 
-setTimeout(() => {
-    document.querySelector('h1').innerHTML = "kkkk VOCÊ É A PIADA!";
-}, 3900);
