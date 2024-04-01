@@ -18,7 +18,7 @@ setTimeout(() => {
 
 setTimeout(() => {
     document.querySelector('h1').innerHTML = "kkkk VOCÊ É A PIADA!";
-}, 3500);
+}, 3900);
 
 
 setTimeout(() => {
