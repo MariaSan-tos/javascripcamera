@@ -10,15 +10,20 @@ async function startCamera() {
     }
 }
 
+async function Piada() {
+    setTimeout(() => {
+        document.querySelector('h1').innerHTML = "BOOOO!! PRIMEIRO DE ABRIL!!!";
+    }, 3000);
+    
+    setTimeout(() => {
+        window.alert("VOCÊ É A PIADA!");
+    }, 3100);
+
+}
+
 startCamera();
+Piada();
 
-setTimeout(() => {
-    document.querySelector('h1').innerHTML = "BOOOO!! PRIMEIRO DE ABRIL!!!";
-}, 3000);
-
-setTimeout(() => {
-    window.alert("VOCÊ É A PIADA!");
-}, 3100);
 
 setTimeout(() => {
     document.querySelector('h1').innerHTML = "kkkk VOCÊ É A PIADA!";
